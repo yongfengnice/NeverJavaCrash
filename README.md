@@ -5,5 +5,5 @@ make app never happen java crash
 
 usage:
 ~~~
-HookLooper.hook()   //是的，只要一行代码就搞定，没用任何性能影响
+HookLooper.hook()   //是的，只要一行代码就搞定，没有任何性能影响
 ~~~
